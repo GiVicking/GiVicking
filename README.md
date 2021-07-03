@@ -14,7 +14,8 @@
 <a href="www.facebook.com/gika.silva.560" target="_blank"><img src="https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gikacarvalho85@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gislaine-carvalho-da-silva-040ab61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- ##
+  
+##
   
 ### My Skills:
   
