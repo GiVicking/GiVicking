@@ -5,7 +5,7 @@
 - Constantly developing skills as a software developer :computer::four_leaf_clover:
 - Extensive knowledge of Excel, Dashboard, Power BI, VBA.
 - I love write texts,study, technology and coffee.:coffee::rocket::books:
-
+##
 
 ### Connect with me:
 
@@ -14,12 +14,11 @@
 <a href="www.facebook.com/gika.silva.560" target="_blank"><img src="https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gikacarvalho85@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gislaine-carvalho-da-silva-040ab61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
+ ##
+  
 ### My Skills:
   
   
-
 <div>
   <a href="https://github.com/GiVicking">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=givicking&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -38,7 +37,7 @@
   <img align="center" alt="Gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Gi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Gi-yoda" src="https://i.gifer.com/4vss.gif">
+    <img align="right" alt="Gi-emoticon" height="100" width="100" src="https://media4.giphy.com/media/xThtajcBdOkFupaZyg/giphy.gif?cid=ecf05e479dzkjnt2j769rk2u58jdderzafjhg391md01zpph&rid=giphy.gif&ct=s">
   
   ##
  
