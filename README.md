@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋:octocat:
 ## I'm Gislaine Carvalho :sassy_woman::four_leaf_clover::computer:
 
@@ -44,10 +46,7 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-
-   
-
-
-
+<g id="layer102" fill="#102828" stroke="none">
+</g>
 
 
