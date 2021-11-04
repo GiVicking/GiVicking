@@ -20,7 +20,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> - Extensive knowledge of Excel, Dashboard, Power BI, VBA.
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> - I love write texts,study, technology, coffee and but coffee.:coffee::rocket::books:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> - Fun Facts: I love write texts,study, technology, coffee and but coffee.:coffee::rocket::books:
 
 
 
