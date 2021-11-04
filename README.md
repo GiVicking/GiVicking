@@ -2,11 +2,28 @@
 
 ### Hi there 👋:octocat:
 ## I'm Gislaine Carvalho :sassy_woman::four_leaf_clover::computer:
+##
 
-- I’m live 🇧🇷 in São Paulo :office:
-- Constantly developing skills as a software developer :computer::four_leaf_clover:
-- Extensive knowledge of Excel, Dashboard, Power BI, VBA.
-- I love write texts,study, technology and coffee.:coffee::rocket::books:
+
+
+### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
+
+##
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30px"> - I’m live 🇧🇷 in São Paulo :office:
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">  - I'm systems analysis and development student at São Paulo University - UNIP;
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> - Constantly developing skills as a software developer :computer::four_leaf_clover:
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">  - I’m currently learning: Java, JavaScript and some frameworks.
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> - Extensive knowledge of Excel, Dashboard, Power BI, VBA.
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> - I love write texts,study, technology, coffee and but coffee.:coffee::rocket::books:
+
+
+
 ##
 
 ### Connect with me:
