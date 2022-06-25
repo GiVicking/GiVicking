@@ -3,8 +3,7 @@
 ### Hi there 👋:octocat:
 ## I'm Gislaine Carvalho :sassy_woman::four_leaf_clover::computer:
 ##
-
- - I’m live 🇧🇷 in São Paulo :office:
+- I’m live 🇧🇷 in São Paulo :office:
 
 - I'm systems analysis and development student at São Paulo University - UNIP;
 
@@ -17,9 +16,10 @@
  - Fun Facts: I love write texts,study, technology, coffee and but coffee.:coffee::rocket::books:
 
 ##
+
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,11 +33,11 @@
   
   
   ##
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 <g id="layer102" fill="#102828" stroke="none">
 </g>
+
 
 <div> 
 <a href="https://www.instagram.com/gika.silva.360/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
